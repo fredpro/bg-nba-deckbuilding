@@ -1,0 +1,37 @@
+﻿Dé,Face,Valeur,Type,Nb
+Tir Ext,1,,,20
+Tir Ext,2,,,20
+Tir Ext,3,,,20
+Tir Ext,4,,,20
+Tir Ext,5,4,,20
+Tir Ext,6,8,,20
+Jeu Int,1,,,20
+Jeu Int,2,,,20
+Jeu Int,3,,,20
+Jeu Int,4,3,,20
+Jeu Int,5,4,,20
+Jeu Int,6,5,,20
+Pén.,1,,,20
+Pén.,2,,,20
+Pén.,3,2,,20
+Pén.,4,3,,20
+Pén.,5,3,,20
+Pén.,6,4,,20
+Interc.,1,1,Jeu Int,20
+Interc.,2,2,Jeu Int,20
+Interc.,3,1,Pén.,20
+Interc.,4,1,Tir Ext,20
+Interc.,5,2,Tir Ext,20
+Interc.,6,3,Tir Ext,20
+Contre,1,1,Jeu Int,20
+Contre,2,2,Jeu Int,20
+Contre,3,1,Tir Ext,20
+Contre,4,1,Pén.,20
+Contre,5,2,Pén.,20
+Contre,6,3,Pén.,20
+Stop,1,2,Jeu Int,20
+Stop,2,2,Jeu Int,20
+Stop,3,1,Tir Ext,20
+Stop,4,2,Tir Ext,20
+Stop,5,1,Pén.,20
+Stop,6,2,Pén.,20

@@ -1,0 +1,31 @@
+﻿Nom,Type,Player,Default,Image,Niveau,Cout Activation,Points Recrutement,Acquisition,Tir Ext,Jeu Int,Penetration,Interception,Contre,Stop,Nb,Version
+Base Offense 3 pts,Offensive,A,Y,basketball-plays-flip-ballscreen3.jpg,0,3,1,0,2,0,0,0,0,0,1,V2
+Base Offense 3 pts,Offensive,B,Y,basketball-plays-flip-ballscreen3.jpg,0,3,1,0,2,0,0,0,0,0,1,V2
+Base Offense Low post,Offensive,A,Y,ballscreen-throwback4.jpg,0,3,1,0,0,2,0,0,0,0,1,V2
+Base Offense Low post,Offensive,B,Y,ballscreen-throwback4.jpg,0,3,1,0,0,2,0,0,0,0,1,V2
+Base Offense Slashing,Offensive,A,Y,ballscreen-throwback2.jpg,0,3,1,0,0,0,2,0,0,0,1,V2
+Base Offense Slashing,Offensive,B,Y,ballscreen-throwback2.jpg,0,3,1,0,0,0,2,0,0,0,1,V2
+Base Defense Trap,Défensive,A,Y,arizona-ball-screens5-300x284.jpg,0,1,1,0,0,0,0,0,1,1,1,V2
+Base Defense Trap,Défensive,B,Y,arizona-ball-screens5-300x284.jpg,0,1,1,0,0,0,0,0,1,1,1,V2
+Base Defense Switch,Défensive,A,Y,arizona-ball-screens3.jpg,0,1,1,0,0,0,0,1,0,1,1,V2
+Base Defense Switch,Défensive,B,Y,arizona-ball-screens3.jpg,0,1,1,0,0,0,0,1,0,1,1,V2
+Virginia Offense,Offensive,,,basketball-plays-down-ballscreen5.png,2,7,4,5,4,0,0,0,0,0,4,V2
+Gonzaga Offense,Offensive,,,basketball-plays15.png,4,11,7,11,6,0,0,0,0,0,2,V2
+Duke Offense,Offensive,,,basketball-plays6-300x251.png,3,9,6,8,0,5,0,0,0,0,3,V2
+Kentucky Offense,Offensive,,,basketball-plays-down-counters1-300x255.jpg,1,5,3,2,3,0,0,0,0,0,5,V2
+Michigan State Offense,Offensive,,,basketball-plays-3.jpg,4,11,7,11,0,0,6,0,0,0,2,V2
+Houston Offense,Offensive,,,basketball-plays-mustang-inside-screens1.jpg,2,7,4,5,0,4,0,0,0,0,4,V2
+North Carolina Offense,Offensive,,,basketball-plays-ball-screen6.jpg,4,11,7,11,0,6,0,0,0,0,2,V2
+Michigan Offense,Offensive,,,basketball_play_michigan.jpg,3,9,6,8,0,0,5,0,0,0,3,V2
+Purdue Offense,Offensive,,,basketball-plays-under-ball-screen2.jpg,3,9,6,8,5,0,0,0,0,0,3,V2
+Virginia Tech Offense,Offensive,,,basketball-play-virginia-tech.png,1,5,3,2,0,3,0,0,0,0,5,V2
+Auburn Offense,Offensive,,,basketball-plays-mustang-inside-screens2.jpg,1,5,3,2,0,0,3,0,0,0,5,V2
+UCLA Offense,Offensive,,,duke-post-isolation-image001.jpg,2,7,4,5,0,0,4,0,0,0,4,V2
+Duke Defense,Défensive,,,basketball-plays-nclob3.jpg,1,3,3,2,0,0,0,2,0,1,5,V2
+Houston Defense,Défensive,,,basketball-plays-under-ball-screen3.jpg,2,5,4,5,0,0,0,2,0,2,4,V2
+Texas Tech Defense,Défensive,,,aicut-double-bs1.jpg,2,5,4,5,0,0,0,0,2,2,4,V2
+North Carolina Defense,Défensive,,,aicut-double-bs2.jpg,3,7,6,8,0,0,0,3,0,2,3,V2
+Michigan Defense,Défensive,,,aicut-double-bs5.jpg,1,3,3,2,0,0,0,0,2,1,5,V2
+Virginia Tech Defense,Défensive,,,basketball-plays-ball-screen1.jpg,3,7,6,8,0,0,0,0,3,2,3,V2
+Florida State Defense,Défensive,,,basketball-plays-ball-screen3.jpg,4,9,7,11,0,0,0,3,0,3,2,V2
+UCLA Defense,Défensive,,,basketball-plays-ball-screen4.jpg,4,9,7,11,0,0,0,0,3,3,2,V2

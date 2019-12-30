@@ -1,0 +1,44 @@
+﻿cardsize=5.9,9.2
+;LINKMULTI=Nb
+LINK=Basket Deck-Building V1 - Cartes Fatigue.csv
+[all]="1-{(Titre)*2}"
+[all_recto]="1-{(Titre)}"
+[all_verso]="{(Titre)+1}-{(Titre)*2}"
+[pos_titre]=0.7,0.3,4.5,1
+[pos_image]=0.7,1.6,4.5,3.5
+[pos_description]=0.2,5.6,5.5,3
+
+[pos_lbl_verso]=0.15,2.1,5.6,2
+[pos_picture_verso]=0.45,2.1,5,5
+
+[middle]="center","center"
+[white]=#FFFFFF
+[black]=#000000
+[dark_blue]=#333366
+[color_tir_ext]=#4ba6ac
+[color_tir_int]=#f6d049
+[color_penetration]=#9a2a2c
+[color_interception]=#f2e1c3
+[color_contre]=#909496
+[color_stop]=#936f56
+[FONT_TITRE]="arial",14, TB, [black]
+[FONT_DESCRIPTION]="arial",8, T, [black]
+[FONT_VERSO]="arial",14, TB, [black]
+
+rectangle=[all_recto],0,0,5.9,9.2,[black], EMPTY, 0.25
+
+FONT=[FONT_TITRE]
+TEXT=[all_recto],[Titre],[pos_titre],center,wwcenter
+FONT=[FONT_DESCRIPTION]
+TEXT=[all_recto],[Description],[pos_description],center,wwtop
+
+IMAGE=[all_recto],".\Images\Silhouettes\[Image]",[pos_image],0,"APN",100
+
+FONT=[FONT_VERSO]
+IMAGE=[all_verso],".\Images\FXA-Sports-Basketball-Icon.jpg",[pos_picture_verso],0,"APN",100
+
+PAGE=21,29.7,PORTRAIT,HV
+MARGINS=0,0,0,0
+
+DUPLEX=[all_recto],[all_verso]
+PRINT=DUPLEX

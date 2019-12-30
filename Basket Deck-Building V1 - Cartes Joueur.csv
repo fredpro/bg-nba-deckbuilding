@@ -1,0 +1,118 @@
+﻿Starter Deck,Booster 1,Nom,Equipe,Player,Default,Photo,Postes,Niveau,Acquisition,Points Recrutement,Points Action,Tir Ext,Jeu Int,Penetration,Interception,Contre,Stop,Nb,Total carac,Total Meta,Total
+X,,Starter PG 1,Start,A,Y,basketball-player-silhouette-1_dribble.png,PG,1,2,2,2,1,0,1,0,0,0,1,2,4,10
+X,,Starter PG 1,Start,B,Y,basketball-player-silhouette-1_dribble.png,PG,1,2,2,2,1,0,1,0,0,0,1,2,4,10
+X,,Starter SG 1,Start,A,Y,silhouette-3127330_960_720.png,SG,1,2,2,1,2,0,0,1,0,0,1,3,3,9
+X,,Starter SG 1,Start,B,Y,silhouette-3127330_960_720.png,SG,1,2,2,1,2,0,0,1,0,0,1,3,3,9
+X,,Starter SF 1,Start,A,Y,sf_silhouette_dunk.jpg,SF,1,2,2,1,0,0,1,1,0,1,1,3,3,9
+X,,Starter SF 1,Start,B,Y,sf_silhouette_dunk.jpg,SF,1,2,2,1,0,0,1,1,0,1,1,3,3,9
+X,,Starter PF 1,Start,A,Y,basketball-player-silhouette-3-1.png,PF,1,2,2,1,0,1,0,0,1,1,1,3,3,9
+X,,Starter PF 1,Start,B,Y,basketball-player-silhouette-3-1.png,PF,1,2,2,1,0,1,0,0,1,1,1,3,3,9
+X,,Starter C 1,Start,A,Y,c_silhouette_skyhook.JPG,C,1,2,2,1,0,1,0,0,2,0,1,3,3,9
+X,,Starter C 1,Start,B,Y,c_silhouette_skyhook.JPG,C,1,2,2,1,0,1,0,0,2,0,1,3,3,9
+X,,Substitute PG 1,Start,A,Y,pg_silhouette_2.png,PG,0,0,1,1,2,0,0,0,0,0,1,2,2,6
+X,,Substitute PG 1,Start,B,Y,pg_silhouette_2.png,PG,0,0,1,1,2,0,0,0,0,0,1,2,2,6
+X,,Substitute SG 1,Start,A,Y,silhouette_shoot.png,SG,0,0,1,0,2,0,0,0,0,1,1,3,1,5
+X,,Substitute SG 1,Start,B,Y,silhouette_shoot.png,SG,0,0,1,0,2,0,0,0,0,1,1,3,1,5
+X,,Substitute SF 1,Start,A,Y,c_silhouette_standing.JPG,SF,0,0,1,1,0,1,1,0,0,0,1,2,2,6
+X,,Substitute SF 1,Start,B,Y,c_silhouette_standing.JPG,SF,0,0,1,1,0,1,1,0,0,0,1,2,2,6
+X,,Substitute PF 1,Start,A,Y,pf_silhouette_rebound.JPG,PF,0,0,1,1,0,1,0,0,0,1,1,2,2,6
+X,,Substitute PF 1,Start,B,Y,pf_silhouette_rebound.JPG,PF,0,0,1,1,0,1,0,0,0,1,1,2,2,6
+X,,Substitute C 1,Start,A,Y,c_silhouette_dunk.jpg,C,0,0,1,1,0,1,0,0,1,0,1,2,2,6
+X,,Substitute C 1,Start,B,Y,c_silhouette_dunk.jpg,C,0,0,1,1,0,1,0,0,1,0,1,2,2,6
+X,,Bob Pettit,Atlanta Hawks,,,Bob_Pettit_1961.jpeg,PF/C,6,9,7,2,2,2,1,0,1,1,1,7,9,25
+X,,Dominique Wilkins,Atlanta Hawks,,,Dominique_wilkins.jpg,SF,8,12,9,2,2,1,3,1,1,1,1,9,11,31
+X,,Larry Bird,Boston Celtics,,,larry_bird.jpg,SF,9,14,10,3,3,2,2,1,0,1,1,9,13,35
+X,,Sam Jones,Boston Celtics,,,sam-jones-celtics.jpg,SG,5,8,6,2,2,0,2,1,0,1,1,6,8,22
+X,X,Avery Bradley,Boston Celtics,,,Avery_Bradley.jpg,SG,2,3,3,1,1,0,1,2,0,0,1,4,4,12
+X,,Danny Ainge,Boston Celtics,,,Danny_Ainge.jpg,SG/PG,3,5,4,2,2,0,1,1,0,0,1,4,6,16
+X,,Jayson Tatum,Boston Celtics,,,jayson_tatum.jpg,SF/SG,4,6,5,1,2,1,2,1,0,0,1,6,6,18
+X,,Ray Allen,Boston Celtics,,,on-court-air-jordan-2009-2k9-ray-allen-player-exclusive-pe-2.jpg,SG,5,8,6,1,3,1,1,1,0,1,1,7,7,21
+X,,Luis Scola,Brooklyn Nets,,,luis_scola.jpg,PF,4,6,5,2,1,1,0,1,0,2,1,5,7,19
+X,,Dell Curry,Charlotte Hornets,,,curry_04.jpg,SG,2,3,3,2,2,0,0,1,0,0,1,3,5,13
+X,,Larry Johnson,Charlotte Hornets,,,johnson_03.jpg,SF/PF,7,11,8,2,2,2,1,1,1,1,1,8,10,28
+X,X,Michael Kidd-Gilchrist,Charlotte Hornets,,,Enes+Kanter+Michael+Kidd+Gilchrist+New+York+uZ-7bmG-uMIl.jpg,SF,3,5,4,1,1,0,1,1,1,1,1,5,5,15
+X,,Nicolas Batum,Charlotte Hornets,,,Nicolas_Batum.jpg,SF/SG,6,9,7,2,2,1,1,1,1,1,1,7,9,25
+X,,Scottie Pippen,Chicago Bulls,,,Scottie-Pippen-Dennis-Rodman-1995-96-Bulls-were-greatest-team-ever.jpg,PG/SF,11,17,12,3,1,1,3,2,1,3,1,11,15,41
+X,,Derrick Rose,Chicago Bulls,,,chicago-bulls-point-guard-derrick-rose.jpg,PG/SG,8,12,9,2,2,1,3,2,0,1,1,9,11,31
+X,,Jimmy Butler,Chicago Bulls,,,jimmy_butler.jpg,SG/SF,6,9,7,1,2,1,2,1,0,2,1,8,8,24
+X,,LeBron James,Cleveland Cavaliers,,,basketball-LeBron-James-Cleveland-Cavaliers-2018.jpg,PG/SF/PF,10,15,11,2,2,2,3,2,1,1,1,11,13,37
+X,X,Kevin Love,Cleveland Cavaliers,,,kevin-love.jpg,PF,3,5,4,1,1,2,0,0,1,1,1,5,5,15
+X,,Mark Price,Cleveland Cavaliers,,,mark_price.jpg,PG,6,9,7,3,3,0,1,1,0,1,1,6,10,26
+X,,Dirk Nowitzki,Dallas Mavericks,,,dirk_nowitzki.jpg,PF,5,8,6,2,3,1,1,0,0,1,1,6,8,22
+X,X,Dennis Smith Jr.,Dallas Mavericks,,,Dennis+Smith+Jr+Dallas+Mavericks+v+Charlotte+_ApLNISk-6pl.jpg,SG,3,5,4,1,1,0,2,2,0,0,1,5,5,15
+X,,Deron Williams,Dallas Mavericks,,,2118724-deron-williams-des-mavericks-de-dallas-c-950x0-3.jpg,PG,4,6,5,2,1,1,1,1,0,1,1,5,7,19
+X,X,Harrison Barnes,Dallas Mavericks,,,Harrison+Barnes+San+Antonio+Spurs+v+Dallas+-HIuTNVSSg5l.jpg,SF,3,5,4,2,1,1,0,1,0,1,1,4,6,16
+X,,Jason Kidd,Dallas Mavericks,,,Jason+Kidd+Dallas+Mavericks+v+Oklahoma+City+iukTn1fPwRBl.jpg,PG,9,14,10,4,2,1,2,2,0,1,1,8,14,36
+X,,Carmelo Anthony,Denver Nuggets,,,carmelo_anthony.jpg,SF/PF,4,6,5,0,2,2,1,0,1,1,1,7,5,17
+X,,Dikembe Mutombo,Denver Nuggets,,,dikembe_mutombo.jpg,C,6,9,7,1,0,2,0,0,3,3,1,8,8,24
+X,,Emmanuel Mudiay,Denver Nuggets,,,Emmanuel+Mudiay+Phoenix+Suns+v+Denver+Nuggets+QSgV8HY8XyZl.jpg,PG/SG,2,3,3,2,1,0,1,1,0,0,1,3,5,13
+X,,Nikola Jokic,Denver Nuggets,,,nikola_jokic.jpg,C,5,8,6,2,2,2,0,1,0,1,1,6,8,22
+X,,Dennis Rodman,Detroit Pistons,,,D0398-Dennis-Rodman-Detroit-Pistons-Basketball-Star-Print-Silk-Art-Wall-Poster.jpg,PF,7,11,8,3,0,1,1,1,1,3,1,7,11,29
+X,,Isiah Thomas,Detroit Pistons,,,isiah_thomas.jpg,PG,8,12,9,2,2,0,3,2,0,2,1,9,11,31
+X,,Bill Laimbeer,Detroit Pistons,,,bill_laimbeer.jpg,C,4,6,5,1,1,2,0,0,1,2,1,6,6,18
+X,X,Marcus Morris,Detroit Pistons,,,Marcus+Morris+Detroit+Pistons+v+Golden+State+1KuUWbSitv6l.jpg,SF/PF,2,3,3,1,1,1,0,0,0,2,1,4,4,12
+X,X,Reggie Jackson,Detroit Pistons,,,reggie_jackson.jpg,PG,2,3,3,1,1,0,2,1,0,0,1,4,4,12
+X,X,Tobias Harris,Detroit Pistons,,,tobias_harris.jpg,SF,3,5,4,1,1,0,1,1,1,1,1,5,5,15
+X,,Stephen Curry,Golden State Warriors,,,Stephen_Curry_dribbling_2016_(cropped).jpg,PG/SG,9,14,10,2,3,1,3,2,0,1,1,10,12,34
+X,,Wilt Chamberlain,Golden State Warriors,,,wilt_chamberlain.jpg,C,7,11,8,2,0,3,1,1,2,1,1,8,10,28
+X,,Baron Davis,Golden State Warriors,,,baron_davis.jpg,PG/SG,5,8,6,2,2,0,2,1,0,1,1,6,8,22
+X,,Klay Thompson,Golden State Warriors,,,klay_thompson.jpg,SG/SF,9,14,10,1,3,2,2,1,1,2,1,11,11,33
+X,,Hakeem Olajuwon,Houston Rockets,,,hakeem-olajuwon-quiz-nba-basket.jpg,C,11,17,12,1,1,3,1,2,3,3,1,13,13,39
+X,X,Clint Capela,Houston Rockets,,,Clint_capela.jpg,C,2,3,3,1,0,1,0,0,2,1,1,4,4,12
+X,,Kenny Smith,Houston Rockets,,,kenny_smith_1993_12_14.jpg,PG,4,6,5,2,2,0,1,1,0,1,1,5,7,19
+X,X,Lou Williams,Houston Rockets,,,lou_williams.jpg,PG/SG,4,6,5,1,2,0,2,1,0,1,1,6,6,18
+X,X,Nenê (Hilario),Houston Rockets,,,nene_hilario.jpg,PF/C,3,5,4,1,0,1,0,1,1,2,1,5,5,15
+X,,Tracy McGrady,Houston Rockets,,,tracy_mcgrady.png,SG,6,9,7,1,2,1,2,1,1,1,1,8,8,24
+X,,Jalen Rose,Indiana Pacers,,,jalen_rose.jpg,PG/SG/SF,5,8,6,2,2,1,1,1,1,0,1,6,8,22
+X,X,Monta Ellis,Indiana Pacers,,,monta_ellis.jpg,SG,3,5,4,1,1,1,2,1,0,0,1,5,5,15
+X,,Paul George,Indiana Pacers,,,paul_george.jpg,SG/SF,7,11,8,2,2,2,2,1,0,1,1,8,10,28
+X,X,Blake Griffin,Los Angeles Clippers,,,blake_griffin.jpg,PF,3,5,4,1,1,2,1,0,0,1,1,5,5,15
+X,,Chris Paul,Los Angeles Clippers,,,chris_paul.jpeg,PG,9,14,10,3,2,1,2,2,0,2,1,9,13,35
+X,,Jerry West,Los Angeles Lakers,,,jerry-west-nba-logo.jpg,PG/SG,9,14,10,3,3,1,2,2,0,1,1,9,13,35
+X,,Magic Johnson,Los Angeles Lakers,,,Magic-Johnson.jpg,PG/C,11,17,12,4,2,2,2,2,1,1,1,10,16,42
+X,X,Brandon Ingram,Los Angeles Lakers,,,brandon_ingram.jpg,SF,2,3,3,1,1,0,1,1,0,1,1,4,4,12
+X,X,Julius Randle,Los Angeles Lakers,,,Julius_Randle_with_Lakers.jpg,PF,2,3,3,1,0,1,0,0,2,1,1,4,4,12
+X,X,Lonzo Ball,Los Angeles Lakers,,,lonzo_ball.jpg,PG,3,5,4,2,1,0,1,1,0,1,1,4,6,16
+X,X,Chandler Parsons,Memphis Grizzlies,,,chandler_parsons_fans_tasteless.jpg,SF,2,3,3,2,1,0,1,0,0,1,1,3,5,13
+X,,Chris Bosh,Miami Heat,,,chris-bosh-a-forgotten-star-banner.jpg,PF/C,5,8,6,1,2,2,1,0,1,1,1,7,7,21
+X,,Giannis Antetokounmpo,Milwaukee Bucks,,,giannis_antetokounmpo.jpg,SF/PF,8,12,9,1,1,2,3,1,2,1,1,10,10,30
+X,X,Jabari Parker,Milwaukee Bucks,,,jabari_parker.jpg,PF/C,2,3,3,1,1,1,0,0,1,1,1,4,4,12
+X,X,Thon Maker,Milwaukee Bucks,,,thon_maker.jpg,PF,2,3,3,1,0,1,0,0,2,1,1,4,4,12
+X,,Karl-Anthony Towns,Minnesota Timberwolves,,,Karl-Anthony-Towns-Halloween-Sneakers-2.jpg,PF/C,4,6,5,1,1,2,0,0,2,1,1,6,6,18
+X,X,Kris Dunn,Minnesota Timberwolves,,,kris_dunn.jpg,PG,2,3,3,2,1,0,0,1,0,1,1,3,5,13
+X,,Ricky Rubio,Minnesota Timberwolves,,,ricky_rubio.jpg,PG,3,5,4,3,1,0,1,1,0,0,1,3,7,17
+X,,Anthony Davis,New Orleans Pelicans,,,anthony_davis.jpg,PF/C,8,12,9,1,2,2,1,1,2,2,1,10,10,30
+X,X,Joakim Noah,New York Knicks,,,joachim_noah.jpg,C,3,5,4,2,0,0,0,0,2,2,1,4,6,16
+X,X,Phil Jackson,New York Knicks,,,phil_jackson.jpg,PF,3,5,4,2,0,1,0,1,1,1,1,4,6,16
+X,,Kevin Durant,Oklahoma City Thunder,,,2014-0503-Kevin-Durant-X158176_TK1_828.jpg,SF/PF,9,14,10,2,3,3,2,1,1,0,1,10,12,34
+X,,Shaquille O'Neal,Orlando Magic,,,shaqmagic.jpg,C,8,12,9,2,0,3,1,0,3,2,1,9,11,31
+X,,Anfernee Hardaway,Orlando Magic,,,anfernee_hardaway.jpg,PG/SG,7,11,8,3,2,1,2,2,0,0,1,7,11,29
+X,X,Bismack Biyombo,Orlando Magic,,,Bismack+Biyombo+Orlando+Magic+v+Brooklyn+Nets+Vclb9MQY-Rtl.jpg,C,2,3,3,1,0,1,0,0,2,1,1,4,4,12
+X,X,Evan Fournier,Orlando Magic,,,evan_fournier.jpg,SG/SF,3,5,4,1,2,0,2,1,0,0,1,5,5,15
+X,,Julius Erving,Philadelphia 76ers,,,julius_erving.jpg,SF,9,14,10,1,2,2,3,2,1,1,1,11,11,33
+X,,Ben Simmons,Philadelphia 76ers,,,Ben+Simmons+Philadelphia+76ers+v+Brooklyn+jTksoxBuRWtl.jpg,PG/SF,6,9,7,3,1,1,1,1,1,1,1,6,10,26
+X,,Joel Embiid,Philadelphia 76ers,,,joel_embiid.jpg,C,8,12,9,2,2,2,1,0,2,2,1,9,11,31
+X,,Tyson Chandler,Phoenix Suns,,,tyson_chandler.jpg,C,3,5,4,1,0,1,0,0,2,2,1,5,5,15
+X,X,Al-Farouq Aminu,Portland Trailblazers,,,Aminu-2-793x581.jpg,SF,2,3,3,1,0,1,1,1,0,1,1,4,4,12
+X,,Clyde Drexler,Portland Trailblazers,,,clyde_drexler.jpg,SG/SF,8,12,9,2,2,1,3,2,0,1,1,9,11,31
+X,,LaMarcus Aldridge,Portland Trailblazers,,,lamarcus-aldridge-blazers-594x437.jpg,PF/C,4,6,5,1,2,2,0,0,1,1,1,6,6,18
+X,X,Ben McLemore,Sacramento Kings,,,ben-mclemore-nba-sacramento-kings-dallas-mavericks.jpg,SG,2,3,3,1,1,0,1,1,0,1,1,4,4,12
+X,,De'Aaron Fox,Sacramento Kings,,,de_aaron_fox_deuce_brand_basketball_wristband_1024x1024.png,PG,3,5,4,2,1,0,2,1,0,0,1,4,6,16
+X,,DeMarcus Cousins,Sacramento Kings,,,demarcus_cousins.jpg,C,5,8,6,1,1,2,0,1,2,1,1,7,7,21
+X,,Mitch Richmond,Sacramento Kings,,,mitch_richmond.jpg,SG,6,9,7,1,3,1,2,1,0,1,1,8,8,24
+X,X,Tyreke Evans,Sacramento Kings,,,tyreke_evans.jpg,PG/SG,2,3,3,1,1,0,2,1,0,0,1,4,4,12
+X,,Tim Duncan,San Antonio Spurs,,,tim_duncan.jpg,PF/C,10,15,11,3,2,3,1,0,2,2,1,10,14,38
+X,,David Robinson,San Antonio Spurs,,,david_robinson.jpg,C,10,15,11,2,1,3,1,1,3,2,1,11,13,37
+X,,Kawhi Leonard,San Antonio Spurs,,,kawhi_leonard.jpg,SG/SF,9,14,10,1,2,1,2,2,1,3,1,11,11,33
+X,,DeMar DeRozan,Toronto Raptors,,,Demar+Derozan+Toronto+Raptors+v+Denver+Nuggets+7bEjtKpHzc1l.jpg,SG,5,8,6,1,2,1,2,1,0,1,1,7,7,21
+X,,Kyle Lowry,Toronto Raptors,,,Kyle+Lowry+Cleveland+Cavaliers+vs+Toronto+YT9ksfsppZ_l.jpg,PG,5,8,6,2,2,0,2,1,0,1,1,6,8,22
+X,X,Pascal Siakam,Toronto Raptors,,,Pascal+Siakam+Toronto+Raptors+v+Chicago+Bulls+WAiIQ4Y4RwJl.jpg,SF/PF,4,6,5,1,1,1,1,1,1,1,1,6,6,18
+X,,Serge Ibaka,Toronto Raptors,,,Serge+Ibaka+Toronto+Raptors+vs+Cleveland+Cavaliers+OSlQ3LaVItal.jpg,PF/C,4,6,5,2,1,0,0,0,2,2,1,5,7,19
+X,,Karl Malone,Utah Jazz,,,karl_malone.jpg,PF,8,12,9,2,2,3,1,0,1,2,1,9,11,31
+X,,Rudy Gobert,Utah Jazz,,,Rudy+Gobert+Utah+Jazz+v+Detroit+Pistons+27vAbBm2F00l.jpg,C,6,9,7,1,0,2,1,0,3,2,1,8,8,24
+X,,Bradley Beal,Washington Wizards,,,Bradley+Beal+Washington+Wizards+v+New+York+tsXvy3AODUel.jpg,SG,4,6,5,1,2,0,2,1,0,1,1,6,6,18
+X,,Manute Bol,Washington Wizards,,,manute_bol.jpg,C,3,5,4,1,0,1,0,0,3,1,1,5,5,15
+X,X,Marcin Gortat,Washington Wizards,,,Marcin+Gortat+Denver+Nuggets+v+Washington+UPNmy6CA6Xtl.jpg,C,2,3,3,1,0,1,0,0,2,1,1,4,4,12
+X,,Gary Payton,Seattle Supersonics,,,gary_payton.jpg,PG,9,14,10,3,1,1,1,3,0,3,1,9,13,35
+X,,Shawn Kemp,Seattle Supersonics,,,shawn_kemp.jpg,PF,6,9,7,1,0,2,2,1,2,1,1,8,8,24
+X,,Michael Jordan,Chicago Bulls,,,michael_jordan.jpg,SG,13,20,14,2,2,2,3,3,1,3,1,14,16,46

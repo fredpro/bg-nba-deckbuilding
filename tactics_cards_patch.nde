@@ -1,0 +1,35 @@
+﻿cardsize=0.75,0.75
+LINKMULTI=Nb
+LINK=Basket Deck-Building V2 - Cartes Tactique - Patch.csv
+[all_recto]="1-{(Nom)*2}"
+
+[pos_icon_activation]=0,0,0.75,0.75
+[pos_value_activation]=0.15,0.08,0.5,0.5
+[pos_icon_recruitment]=0.75,0,0.75,0.75
+[pos_value_recruitment]=0.75,0.02,0.75,0.75
+[pos_icon_aquisition]=1.5,0,0.75,0.75
+[pos_value_aquisition]=1.5,0,0.75,0.75
+
+[white]=#FFFFFF
+[black]=#000000
+[FONT_VALUES]="arial",12, TB, [white]
+[FONT_VALUES_BLACK]="arial",12, TB, [black]
+
+FONT=[FONT_VALUES]
+IMAGE=[all_recto],".\Icons\svg\003-basketball-ball.png",[pos_icon_activation],0,"APN"
+TEXT=[all_recto],[Cout Activation],[pos_value_activation],center,wwcenter
+FONT=[FONT_VALUES_BLACK]
+TEXT=[all_recto],[Cout Activation],[pos_value_activation],center,wwcenter,0,100,0.02
+;FONT=[FONT_VALUES]
+;VECTOR=[all_recto],".\Icons\svg\001-coin.svg",[pos_icon_aquisition]
+;TEXT=[all_recto],[Acquisition],[pos_value_aquisition],center,wwcenter
+;FONT=[FONT_VALUES_BLACK]
+;TEXT=[all_recto],[Acquisition],[pos_value_aquisition],center,wwcenter,0,100,0.02
+;FONT=[FONT_VALUES]
+;VECTOR=[all_recto],".\Icons\svg\005-like.svg",[pos_icon_recruitment]
+;TEXT=[all_recto],[Points Recrutement],[pos_value_recruitment],center,wwcenter
+;FONT=[FONT_VALUES_BLACK]
+;TEXT=[all_recto],[Points Recrutement],[pos_value_recruitment],center,wwcenter,0,100,0.02
+
+PAGE=21,29.7,PORTRAIT,HV
+MARGINS=3,3,2,2

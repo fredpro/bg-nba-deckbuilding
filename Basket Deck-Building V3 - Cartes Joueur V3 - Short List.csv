@@ -1,0 +1,25 @@
+﻿Starter Deck,Booster 1,Nom,Equipe,Player,Default,Photo,Postes,Niveau,Acquisition,Points Recrutement,Points Action,Rebonds,Clutch,3 Pts,Jeu Int,Penetration,Interception,Contre,Stop,Cout Tactique,Comp Off,Malus Off,Vs Int,Vs Ctr,Vs Stop,Malus Def,Nb,Total carac,Total Meta,Total,Version
+X,,Titulaire MJ 1,,A,Y,basketball-player-silhouette-1_dribble.png,MJ,1,2,2,2,0,,1,0,0,2,0,0,3,3 Pts,,2,1,1,-2,1,3,4,11,V2
+X,,Titulaire MJ 1,,B,Y,basketball-player-silhouette-1_dribble.png,MJ,1,2,2,2,0,,1,0,0,2,0,0,3,3 Pts,,2,1,1,-2,1,3,4,11,V2
+X,,Titulaire Ar 1,,A,Y,silhouette-3127330_960_720.png,Ar,1,2,2,1,0,,2,0,0,0,1,1,3,3 Pts,,2,1,1,-2,1,4,3,10,V2
+X,,Titulaire Ar 1,,B,Y,silhouette-3127330_960_720.png,Ar,1,2,2,1,0,,2,0,0,0,1,1,3,3 Pts,,2,1,1,-2,1,4,3,10,V2
+X,,Titulaire Ai 1,,A,Y,sf_silhouette_dunk.jpg,Ai,1,2,2,1,1,,0,0,2,0,1,0,3,Pen,,1,1,2,-4,1,3,3,9,V2
+X,,Titulaire Ai 1,,B,Y,sf_silhouette_dunk.jpg,Ai,1,2,2,1,1,,0,0,2,0,1,0,3,Pen,,1,1,2,-4,1,3,3,9,V2
+X,,Titulaire AF 1,,A,Y,basketball-player-silhouette-3-1.png,AF,1,2,2,1,1,,0,1,1,0,0,1,3,Pen,,1,1,2,-4,1,3,3,9,V2
+X,,Titulaire AF 1,,B,Y,basketball-player-silhouette-3-1.png,AF,1,2,2,1,1,,0,1,1,0,0,1,3,Pen,,1,1,2,-4,1,3,3,9,V2
+X,,Titulaire P 1,,A,Y,c_silhouette_skyhook.JPG,P,1,2,2,1,2,,0,2,0,0,0,0,3,Int,,1,2,1,-3,1,2,3,8,V2
+X,,Titulaire P 1,,B,Y,c_silhouette_skyhook.JPG,P,1,2,2,1,2,,0,2,0,0,0,0,3,Int,,1,2,1,-3,1,2,3,8,V2
+X,,Remplaçant MJ 1,,A,Y,pg_silhouette_2.png,MJ,0,1,1,1,0,,1,0,1,1,0,0,3,3 Pts,,2,1,1,-2,1,3,2,7,V2
+X,,Remplaçant MJ 1,,B,Y,pg_silhouette_2.png,MJ,0,1,1,1,0,,1,0,1,1,0,0,3,3 Pts,,2,1,1,-2,1,3,2,7,V2
+X,,Remplaçant Ar 1,,A,Y,silhouette_shoot.png,Ar,0,1,1,0,0,,1,0,0,1,0,2,3,3 Pts,,2,1,1,-2,1,4,1,6,V2
+X,,Remplaçant Ar 1,,B,Y,silhouette_shoot.png,Ar,0,1,1,0,0,,1,0,0,1,0,2,3,3 Pts,,2,1,1,-2,1,4,1,6,V2
+X,,Remplaçant Ar 2,,A,Y,sg_silhouette_jump_shot.png,Ar,0,1,1,1,0,,1,1,1,0,0,0,3,Pen,,1,1,2,-4,1,3,2,7,V2
+X,,Remplaçant Ar 2,,B,Y,sg_silhouette_jump_shot.png,Ar,0,1,1,1,0,,1,1,1,0,0,0,3,Pen,,1,1,2,-4,1,3,2,7,V2
+X,,Remplaçant Ai 1,,A,Y,c_silhouette_standing.JPG,Ai,0,1,1,0,0,,1,0,2,1,0,0,3,Pen,,1,1,2,-4,1,4,1,6,V2
+X,,Remplaçant Ai 1,,B,Y,c_silhouette_standing.JPG,Ai,0,1,1,0,0,,1,0,2,1,0,0,3,Pen,,1,1,2,-4,1,4,1,6,V2
+X,,Remplaçant AF 1,,A,Y,pf_silhouette_rebound.JPG,AF,0,1,1,0,1,,0,1,0,0,1,1,3,Int,,1,2,1,-3,1,3,1,5,V2
+X,,Remplaçant AF 1,,B,Y,pf_silhouette_rebound.JPG,AF,0,1,1,0,1,,0,1,0,0,1,1,3,Int,,1,2,1,-3,1,3,1,5,V2
+X,,Remplaçant AF 2,,A,Y,c_silhouette_protect.JPG,AF,0,1,1,0,2,,0,1,0,0,1,0,3,Int,,1,2,1,-3,1,2,1,4,V2
+X,,Remplaçant AF 2,,B,Y,c_silhouette_protect.JPG,AF,0,1,1,0,2,,0,1,0,0,1,0,3,Int,,1,2,1,-3,1,2,1,4,V2
+X,,Remplaçant P 1,,A,Y,c_silhouette_dunk.jpg,P,0,1,1,1,1,,0,1,0,0,1,0,3,Int,,1,2,1,-3,1,2,2,6,V2
+X,,Remplaçant P 1,,B,Y,c_silhouette_dunk.jpg,P,0,1,1,1,1,,0,1,0,0,1,0,3,Int,,1,2,1,-3,1,2,2,6,V2

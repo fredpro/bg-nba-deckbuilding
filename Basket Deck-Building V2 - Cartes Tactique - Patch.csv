@@ -1,0 +1,11 @@
+﻿Nom,Type,Player,Default,Image,Niveau,Cout Activation,Points Recrutement,Acquisition,Tir Ext,Jeu Int,Penetration,Interception,Contre,Stop,Nb
+Virginia Defense,Défensive,,,Basketball-Plays-North-Carolina-Lob1.jpg,1,4,3,2,0,0,0,1,2,3,4
+Duke Defense,Défensive,,,basketball-plays-nclob3.jpg,1,4,3,2,0,0,0,4,2,0,4
+Michigan State Defense,Défensive,,,basketball-plays-under-ball-screen.jpg,1,4,3,2,0,0,0,2,2,2,4
+Houston Defense,Défensive,,,basketball-plays-under-ball-screen3.jpg,3,10,6,8,0,0,0,4,4,2,2
+North Carolina Defense,Défensive,,,aicut-double-bs2.jpg,1,4,3,2,0,0,0,3,1,2,4
+Tennessee Defense,Défensive,,,aicut-double-bs3.jpg,3,10,6,8,0,0,0,4,2,4,2
+Michigan Defense,Défensive,,,aicut-double-bs5.jpg,1,4,3,2,0,0,0,0,3,3,4
+Virginia Tech Defense,Défensive,,,basketball-plays-ball-screen1.jpg,3,10,6,8,0,0,0,2,4,4,2
+Florida State Defense,Défensive,,,basketball-plays-ball-screen3.jpg,4,13,7,11,0,0,0,4,5,3,2
+UCLA Defense,Défensive,,,basketball-plays-ball-screen4.jpg,4,13,7,11,0,0,0,4,3,5,2

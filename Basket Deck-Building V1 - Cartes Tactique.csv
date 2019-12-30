@@ -1,0 +1,16 @@
+﻿Nom,Type,Player,Default,Image,Niveau,Cout Activation,Points Recrutement,Acquisition,Tir Ext,Jeu Int,Penetration,Interception,Contre,Stop,Nb
+Virginia Defense,Défensive,,,Basketball-Plays-North-Carolina-Lob1.jpg,1,3,3,2,0,0,0,0,1,2,3
+Gonzaga Defense,Défensive,,,middle-clear-through-isolation-play1.png,2,5,4,5,0,0,0,0,2,2,3
+Duke Defense,Défensive,,,basketball-plays-nclob3.jpg,1,3,3,2,0,0,0,2,1,0,3
+Kentucky Defense,Défensive,,,zone-lob-play-image01.jpg,2,5,4,5,0,0,0,2,0,2,3
+Michigan State Defense,Défensive,,,basketball-plays-under-ball-screen.jpg,1,3,3,2,0,0,0,1,1,1,3
+Houston Defense,Défensive,,,basketball-plays-under-ball-screen3.jpg,3,7,6,8,0,0,0,2,2,1,2
+Texas Tech Defense,Défensive,,,aicut-double-bs1.jpg,2,5,4,5,0,0,0,1,2,1,3
+North Carolina Defense,Défensive,,,aicut-double-bs2.jpg,1,3,3,2,0,0,0,2,0,1,3
+Tennessee Defense,Défensive,,,aicut-double-bs3.jpg,3,7,6,8,0,0,0,2,1,2,2
+Michigan Defense,Défensive,,,aicut-double-bs5.jpg,1,3,3,2,0,0,0,0,2,1,3
+Purdue Defense,Défensive,,,aicut-double-bs6.jpg,2,5,4,5,0,0,0,2,1,1,3
+Virginia Tech Defense,Défensive,,,basketball-plays-ball-screen1.jpg,3,7,6,8,0,0,0,1,2,2,2
+Auburn Defense,Défensive,,,basketball-plays-ball-screen2.jpg,2,5,4,5,0,0,0,2,1,1,3
+Florida State Defense,Défensive,,,basketball-plays-ball-screen3.jpg,4,9,7,11,0,0,0,2,3,1,2
+UCLA Defense,Défensive,,,basketball-plays-ball-screen4.jpg,4,9,7,11,0,0,0,2,1,3,2
