@@ -1,6 +1,6 @@
 cardsize=1.43,1.43
 ;LINKMULTI=Nb
-LINK=Basket Deck-Building V2 - Dés V4.csv
+LINK=Basket Deck-Building V4 - Dés.csv
 
 [all]="1-{(Dé)}"
 [pos_text]=0,0,1.43,1.43

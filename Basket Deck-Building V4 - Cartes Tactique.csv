@@ -1,0 +1,3 @@
+﻿Nom,Type,Player,Default,Image,Niveau,Cout Activation,Points Recrutement,Acquisition,Tir Ext,Jeu Int,Penetration,Interception,Contre,Stop,Nb,Version
+Default Offense,Offensive,,,aicut-double-bs6.jpg,0,0,0,0,1,1,1,0,0,0,1,V4
+Default Defense,Défensive,,,aicut-double-bs5.jpg,0,0,0,0,0,0,0,1,1,1,1,V4

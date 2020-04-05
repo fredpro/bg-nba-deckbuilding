@@ -1,0 +1,199 @@
+cardsize=9.2,5.9
+LINKMULTI=Nb
+LINK=Basket Deck-Building V4 - Cartes Tactique.csv
+[all]="1-{(Nom)*2}"
+[all_recto]="1-{(Nom)}"
+[all_verso]="{(Nom)+1}-{(Nom)*2}"
+[pos_nom]=0.85,0.55,7.5,0.5
+[pos_type]=0.85,0.925,7.5,0.5
+[pos_image]=1.35,1.25,6.5,2.2
+[pos_icon_activation]=0.7,0.55,0.75,0.75
+[pos_value_activation]=0.85,0.63,0.5,0.5
+
+[pos_malus_def_label]=4.7,3.4,3.7,0.5
+[skill_value_width]=0.4
+[pos_skill_off_value_x]=2.3
+[pos_skill_label_tir_ext]=1,3.8,1.2,0.5
+[pos_skill_value_tir_ext_y]=3.85
+[pos_skill_label_tir_int]=1,4.3,1.2,0.5
+[pos_skill_value_tir_int_y]=4.35
+[pos_skill_label_penetration]=1,4.8,1.2,0.5
+[pos_skill_value_penetration_y]=4.85
+[pos_skill_def_value_x]=6.2
+[pos_skill_label_interception]=5,3.8,1.1,0.5
+[pos_skill_value_interception_y]=3.85
+[pos_skill_label_contre]=5,4.3,1.1,0.5
+[pos_skill_value_contre_y]=4.35
+[pos_skill_label_stop]=5,4.8,1.1,0.5
+[pos_skill_value_stop_y]=4.85
+[pos_skill_vertical_line]=4.6,3.7,4.6,5.25
+
+[pos_type_summary]=0.21,0.95,0.3,3.7
+[skill_summary_width]=0.1
+[pos_skill_off_summary_y]=2.75
+[pos_skill_summary_tir_ext_x]=0.7
+[pos_skill_summary_jeu_int_x]=0.85
+[pos_skill_summary_penetration_x]=1
+[pos_skill_def_summary_y]=2.65
+[pos_skill_summary_interception_x]=0.7
+[pos_skill_summary_contre_x]=0.85
+[pos_skill_summary_stop_x]=1
+
+[pos_value_recruitment]=0.2,5.03,0.75,0.75
+[pos_icon_recruitment]=0.2,5.01,0.75,0.75
+[pos_value_aquisition]=8.2,0.15,0.75,0.75
+[pos_icon_aquisition]=8.2,0.15,0.75,0.75
+
+[pos_value_sorting_player]=8.75,5.2,0.2,0.5
+[pos_value_sorting_initiation]=8.75,4.6,0.2,1.5
+[pos_version]=8.75,1.95,0.2,2
+
+[pos_lbl_verso]=2.1,0.15,2,5.6
+[pos_picture_verso]=2.1,0.45,5,5
+
+[middle]="center","center"
+[white]=#FFFFFF
+[black]=#000000
+[gray]=#444444
+[color_tir_ext]=#4ba6ac
+[color_tir_int]=#f6d049
+[color_penetration]=#DE211C
+[color_interception]=#f2e1c3
+[color_contre]=#909496
+[color_stop]=#61301F
+[FONT_NOM]="arial",10, TB, [black]
+[FONT_DETAILS]="arial",8, TB, [black]
+[FONT_SKILLS]="arial",8, T, [black]
+[FONT_SORTING]="arial",6, T, [black]
+[FONT_VERSION]="arial",4, TI, [black]
+[FONT_VALUES]="arial",12, TB, [white]
+[FONT_VALUES_BLACK]="arial",12, TB, [black]
+[FONT_VERSO]="arial",14, TB, [black]
+
+rectangle=[all_recto],0,0,9.2,5.9,[black], EMPTY, 0.25
+rectangle=[all_recto],0.6,0.45,8,5,[gray], EMPTY, 0.1
+
+FONT=[FONT_VALUES]
+IMAGE=[all_recto],".\Icons\svg\003-basketball-ball.png",[pos_icon_activation],0,"APN"
+TEXT=[all_recto],[Cout Activation],[pos_value_activation],center,wwcenter
+FONT=[FONT_VALUES_BLACK]
+TEXT=[all_recto],[Cout Activation],[pos_value_activation],center,wwcenter,0,100,0.02
+
+FONT=[FONT_NOM]
+TEXT=[all_recto],[Nom],[pos_nom],center,wwtop
+FONT=[FONT_DETAILS]
+TEXT=[all_recto],[Type],[pos_type],center,wwtop
+
+IMAGE=[all_recto],".\Images\Tactiques\Used\[Image]",[pos_image],0,"APN",100
+
+IF=[Type]="Offensive"
+    FONT=[FONT_SKILLS]
+    TEXT=[all_recto],"3 Pts : ",[pos_skill_label_tir_ext],right,wwcenter
+    FOR=A,1,[Tir Ext]
+        rectangle=[all_recto],[pos_skill_off_value_x]+(([skill_value_width]+0.05)*(A-1)),[pos_skill_value_tir_ext_y],[skill_value_width],[skill_value_width],[black],[color_tir_ext],0.01
+    NEXT
+    TEXT=[all_recto],"Jeu Int. : ",[pos_skill_label_tir_int],right,wwcenter
+    FOR=A,1,[Jeu Int]
+        rectangle=[all_recto],[pos_skill_off_value_x]+(([skill_value_width]+0.05)*(A-1)),[pos_skill_value_tir_int_y],[skill_value_width],[skill_value_width],[black],[color_tir_int],0.01
+    NEXT
+    TEXT=[all_recto],"Pén. : ",[pos_skill_label_penetration],right,wwcenter
+    FOR=A,1,[Penetration]
+        rectangle=[all_recto],[pos_skill_off_value_x]+(([skill_value_width]+0.05)*(A-1)),[pos_skill_value_penetration_y],[skill_value_width],[skill_value_width],[black],[color_penetration],0.01
+    NEXT
+    LINE=[all_recto],[pos_skill_vertical_line],[black],0.1
+    FONT=[FONT_DETAILS]
+    TEXT=[all_recto],"Malus Défense Adverse",[pos_malus_def_label],center,wwcenter
+    FONT=[FONT_SKILLS]
+    TEXT=[all_recto],"Interc. : ",[pos_skill_label_interception],right,wwcenter
+    FOR=A,1,{[Interception]*-1}
+        rectangle=[all_recto],[pos_skill_def_value_x]+(([skill_value_width]+0.05)*(A-1)),[pos_skill_value_interception_y],[skill_value_width],[skill_value_width],[black],[color_interception],0.01
+        IF=[Interception]<0
+            ;LINE=[all_recto],[pos_skill_def_value_x]+(([skill_value_width]+0.05)*(A-1)),[pos_skill_value_interception_y],[pos_skill_def_value_x]+(([skill_value_width]+0.05)*(A-1))+[skill_value_width],[pos_skill_value_interception_y]+[skill_value_width],#FF0000,0.1
+            ;LINE=[all_recto],[pos_skill_def_value_x]+(([skill_value_width]+0.05)*(A-1))+[skill_value_width],[pos_skill_value_interception_y],[pos_skill_def_value_x]+(([skill_value_width]+0.05)*(A-1)),[pos_skill_value_interception_y]+[skill_value_width],#FF0000,0.1
+            VECTOR=[all_recto],".\Icons\svg\lock.svg",[pos_skill_def_value_x]+(([skill_value_width]+0.05)*(A-1))+0.05,[pos_skill_value_interception_y]+0.05,[skill_value_width]-0.1,[skill_value_width]-0.1
+        ENDIF
+    NEXT
+    TEXT=[all_recto],"Contre : ",[pos_skill_label_contre],right,wwcenter
+    FOR=A,1,{[Contre]*-1}
+        rectangle=[all_recto],[pos_skill_def_value_x]+(([skill_value_width]+0.05)*(A-1)),[pos_skill_value_contre_y],[skill_value_width],[skill_value_width],[black],[color_contre],0.01
+        IF=[Contre]<0
+            ;LINE=[all_recto],[pos_skill_def_value_x]+(([skill_value_width]+0.05)*(A-1)),[pos_skill_value_contre_y],[pos_skill_def_value_x]+(([skill_value_width]+0.05)*(A-1))+[skill_value_width],[pos_skill_value_contre_y]+[skill_value_width],#FF0000,0.1
+            ;LINE=[all_recto],[pos_skill_def_value_x]+(([skill_value_width]+0.05)*(A-1))+[skill_value_width],[pos_skill_value_contre_y],[pos_skill_def_value_x]+(([skill_value_width]+0.05)*(A-1)),[pos_skill_value_contre_y]+[skill_value_width],#FF0000,0.1
+            ;TEXT=[all_recto],"-1",[pos_skill_def_value_x]+(([skill_value_width]+0.05)*(A-1)),[pos_skill_value_contre_y],[skill_value_width],[skill_value_width],center,wwcenter
+            VECTOR=[all_recto],".\Icons\svg\lock.svg",[pos_skill_def_value_x]+(([skill_value_width]+0.05)*(A-1))+0.05,[pos_skill_value_contre_y]+0.05,[skill_value_width]-0.1,[skill_value_width]-0.1
+        ENDIF
+    NEXT
+    TEXT=[all_recto],"Stop : ",[pos_skill_label_stop],right,wwcenter
+    FOR=A,1,{[Stop]*-1}
+        rectangle=[all_recto],[pos_skill_def_value_x]+(([skill_value_width]+0.05)*(A-1)),[pos_skill_value_stop_y],[skill_value_width],[skill_value_width],[black],[color_stop],0.01
+        IF=[Stop]<0
+            ;LINE=[all_recto],[pos_skill_def_value_x]+(([skill_value_width]+0.05)*(A-1)),[pos_skill_value_stop_y],[pos_skill_def_value_x]+(([skill_value_width]+0.05)*(A-1))+[skill_value_width],[pos_skill_value_stop_y]+[skill_value_width],#FF0000,0.1
+            ;LINE=[all_recto],[pos_skill_def_value_x]+(([skill_value_width]+0.05)*(A-1))+[skill_value_width],[pos_skill_value_stop_y],[pos_skill_def_value_x]+(([skill_value_width]+0.05)*(A-1)),[pos_skill_value_stop_y]+[skill_value_width],#FF0000,0.1
+            VECTOR=[all_recto],".\Icons\svg\lock.svg",[pos_skill_def_value_x]+(([skill_value_width]+0.05)*(A-1))+0.05,[pos_skill_value_stop_y]+0.05,[skill_value_width]-0.1,[skill_value_width]-0.1
+        ENDIF
+    NEXT
+ELSE
+    FONT=[FONT_SKILLS]
+    TEXT=[all_recto],"Interc. : ",[pos_skill_label_tir_ext],right,wwcenter
+    FOR=A,1,[Interception]
+        rectangle=[all_recto],[pos_skill_off_value_x]+(([skill_value_width]+0.05)*(A-1)),[pos_skill_value_tir_ext_y],[skill_value_width],[skill_value_width],[black],[color_interception],0.01
+    NEXT
+    TEXT=[all_recto],"Contre : ",[pos_skill_label_tir_int],right,wwcenter
+    FOR=A,1,[Contre]
+        rectangle=[all_recto],[pos_skill_off_value_x]+(([skill_value_width]+0.05)*(A-1)),[pos_skill_value_tir_int_y],[skill_value_width],[skill_value_width],[black],[color_contre],0.01
+    NEXT
+    TEXT=[all_recto],"Stop : ",[pos_skill_label_penetration],right,wwcenter
+    FOR=A,1,[Stop]
+        rectangle=[all_recto],[pos_skill_off_value_x]+(([skill_value_width]+0.05)*(A-1)),[pos_skill_value_penetration_y],[skill_value_width],[skill_value_width],[black],[color_stop],0.01
+    NEXT
+    ;LINE=[all_recto],[pos_skill_vertical_line],[black],0.1
+ENDIF
+
+;FONT=[FONT_DETAILS]
+;TEXT=[all_recto],[Type],[pos_type_summary],center,wwtop,270
+;FOR=A,1,[Tir Ext]
+;    ellipse=[all_recto],[pos_skill_summary_tir_ext_x],[pos_skill_off_summary_y]+(([skill_summary_width]+0.05)*(A-1)),[skill_summary_width],[skill_summary_width],[color_tir_ext]
+;NEXT
+;FOR=A,1,[Jeu Int]
+;    ellipse=[all_recto],[pos_skill_summary_jeu_int_x],[pos_skill_off_summary_y]+(([skill_summary_width]+0.05)*(A-1)),[skill_summary_width],[skill_summary_width],[color_tir_int]
+;NEXT
+;FOR=A,1,[Penetration]
+;    ellipse=[all_recto],[pos_skill_summary_penetration_x],[pos_skill_off_summary_y]+(([skill_summary_width]+0.05)*(A-1)),[skill_summary_width],[skill_summary_width],[color_penetration]
+;NEXT
+;FOR=A,1,[Interception]
+;    ellipse=[all_recto],[pos_skill_summary_interception_x],[pos_skill_def_summary_y]-(([skill_summary_width]+0.05)*(A-1)),[skill_summary_width],[skill_summary_width],[color_interception]
+;NEXT
+;FOR=A,1,[Contre]
+;    ellipse=[all_recto],[pos_skill_summary_contre_x],[pos_skill_def_summary_y]-(([skill_summary_width]+0.05)*(A-1)),[skill_summary_width],[skill_summary_width],[color_contre]
+;NEXT
+;FOR=A,1,[Stop]
+;    ellipse=[all_recto],[pos_skill_summary_stop_x],[pos_skill_def_summary_y]-(([skill_summary_width]+0.05)*(A-1)),[skill_summary_width],[skill_summary_width],[color_stop]
+;NEXT
+
+;FONT=[FONT_VALUES]
+;VECTOR=[all_recto],".\Icons\svg\001-coin.svg",[pos_icon_aquisition],270
+;TEXT=[all_recto],[Acquisition],[pos_value_aquisition],center,wwcenter,270
+;FONT=[FONT_VALUES_BLACK]
+;TEXT=[all_recto],[Acquisition],[pos_value_aquisition],center,wwcenter,270,100,0.02
+;FONT=[FONT_VALUES]
+;VECTOR=[all_recto],".\Icons\svg\005-like.svg",[pos_icon_recruitment],270
+;TEXT=[all_recto],[Points Recrutement],[pos_value_recruitment],center,wwcenter,270
+;FONT=[FONT_VALUES_BLACK]
+;TEXT=[all_recto],[Points Recrutement],[pos_value_recruitment],center,wwcenter,270,100,0.02
+;
+;FONT=[FONT_SORTING]
+;TEXT=[all_recto],[Player],[pos_value_sorting_player],left,wwcenter,270
+;IF=[Default]="Y"
+;    TEXT=[all_recto],"- Initiation",[pos_value_sorting_initiation],right,wwcenter,270
+;ENDIF
+;FONT=[FONT_VERSION]
+;TEXT=[all_recto],[Version],[pos_version],center,wwcenter,270
+
+FONT=[FONT_VERSO]
+IMAGE=[all_verso],".\Images\FXA-Sports-Basketball-Icon.jpg",[pos_picture_verso],270,"APN",100
+
+PAGE=21,29.7,LANDSCAPE,HV
+MARGINS=0,0,0,0
+
+DUPLEX=[all_recto],[all_verso]
+PRINT=DUPLEX

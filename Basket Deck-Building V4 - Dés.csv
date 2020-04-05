@@ -1,0 +1,37 @@
+﻿Dé,Face,Valeur,Nb
+3 Pts,1,,10
+3 Pts,2,,10
+3 Pts,3,,10
+3 Pts,4,3,10
+3 Pts,5,3,10
+3 Pts,6,3,10
+Jeu Int,1,,10
+Jeu Int,2,,10
+Jeu Int,3,2,10
+Jeu Int,4,2,10
+Jeu Int,5,2,10
+Jeu Int,6,2,10
+Pén.,1,,10
+Pén.,2,2,10
+Pén.,3,2,10
+Pén.,4,2,10
+Pén.,5,2,10
+Pén.,6,2,10
+Interc.,1,,10
+Interc.,2,,10
+Interc.,3,,10
+Interc.,4,,10
+Interc.,5,X,10
+Interc.,6,X,10
+Contre,1,,10
+Contre,2,,10
+Contre,3,,10
+Contre,4,\,10
+Contre,5,/,10
+Contre,6,X,10
+Stop,1,,10
+Stop,2,,10
+Stop,3,\,10
+Stop,4,/,10
+Stop,5,\,10
+Stop,6,/,10

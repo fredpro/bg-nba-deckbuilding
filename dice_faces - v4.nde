@@ -1,0 +1,39 @@
+cardsize=1.43,1.43
+LINKMULTI=Nb
+LINK=Basket Deck-Building V4 - Dés.csv
+
+[all]="1-{(Dé)}"
+[pos_text]=0,0,1.43,1.43
+
+[middle]="center","center"
+[white]=#FFFFFF
+[black]=#000000
+[dark_blue]=#333366
+[color_3_pts]=#4ba6ac
+[color_jeu_int]=#f6d049
+[color_penetration]=#9a2a2c
+[color_interception]=#f2e1c3
+[color_contre]=#909496
+[color_stop]=#936f56
+[FONT_VALUES]="arial",24, TB
+[FONT_VALUES_BLACK]="arial",24, TB, [black]
+
+IF=[Dé]="3 Pts"
+    RECTANGLE=[all],[pos_text],[color_3_pts]
+ELSEIF=[Dé]="Jeu Int"
+    RECTANGLE=[all],[pos_text],[color_jeu_int]
+ELSEIF=[Dé]="Pén."
+    RECTANGLE=[all],[pos_text],[color_penetration]
+ELSEIF=[Dé]="Interc."
+    RECTANGLE=[all],[pos_text],[color_interception]
+ELSEIF=[Dé]="Contre"
+    RECTANGLE=[all],[pos_text],[color_contre]
+ELSEIF=[Dé]="Stop"
+    RECTANGLE=[all],[pos_text],[color_stop]
+ENDIF
+FONT=[FONT_VALUES_BLACK]
+TEXT=[all],[Valeur],[pos_text],center,wwcenter
+
+
+PAGE=21,29.7,PORTRAIT,HV
+MARGINS=0.5,0.5,1,1
